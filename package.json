@@ -1,9 +1,9 @@
 {
-  "name": "my-extension-pack",
-  "displayName": "my-extension-pack",
+  "name": "full-stack-extension-pack",
+  "displayName": "full-stack-extension-pack",
   "description": "A swiss army tool 🧰 for a developer 👨🏻‍💻",
   "version": "0.0.1",
-  "publisher": "0xc0d3r",
+  "publisher": "AneshParvatha",
   "engines": {
     "vscode": "^1.42.0"
   },
@@ -29,5 +29,9 @@
     "jasonnutter.search-node-modules",
     "shan.code-settings-sync",
     "wayou.vscode-todo-highlight"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xc0d3r/my-vscode-extension-pack"
+  }
 }

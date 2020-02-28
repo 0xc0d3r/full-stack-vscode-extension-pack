@@ -2,9 +2,13 @@
 
 A swiss army tool 🧰 for a developer 👨🏻‍💻
 
+## Install
+
+Follow the [marketplace link](https://marketplace.visualstudio.com/items?itemName=AneshParvatha.full-stack-extension-pack) to install
+
 ## Other useful extensions
 
-Below extensions are not included in the extension pack but these are powerful🔥
+Below extensions are not included in the extension pack but these are powerful 💪🔥
 
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [JIRA and Bitbucket (Official)](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode)
@@ -15,5 +19,9 @@ Below extensions are not included in the extension pack but these are powerful�
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
+
+## Contribute
+
+If you know any other useful extension then feel free to submit a pull request. Let's create a powerful developer kit for all the awesome developers 👨🏻‍💻👩🏻‍💻 across the world.
 
 **Enjoy!**

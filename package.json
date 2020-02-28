@@ -1,0 +1,33 @@
+{
+  "name": "my-extension-pack",
+  "displayName": "my-extension-pack",
+  "description": "A swiss army tool 🧰 for a developer 👨🏻‍💻",
+  "version": "0.0.1",
+  "publisher": "0xc0d3r",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionDependencies": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "znck.grammarly",
+    "wix.vscode-import-cost",
+    "orta.vscode-jest",
+    "leizongmin.node-module-intellisense",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "wallabyjs.quokka-vscode",
+    "jasonnutter.search-node-modules",
+    "shan.code-settings-sync",
+    "wayou.vscode-todo-highlight"
+  ]
+}
